@@ -1,0 +1,1 @@
+python layeredTransfer.py --content_dir data/pic2ukiyoe/testB --content_map_dir data/region_map/pic --style data/pic2ukiyoe/trainA/0176.png --style_map data/region_map/ukiyoe/0176_map.png --save_dir results/0176
